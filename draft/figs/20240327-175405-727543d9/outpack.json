@@ -1,1 +1,0 @@
-{"schema_version": "0.1.1", "id": "20240327-175405-727543d9", "name": "figs", "parameters": {}, "time": {"start": 1711562045.4941342, "end": 1711562046.2531364}, "files": [{"path": "orderly.py", "size": 623, "hash": "sha256:ec7751b15b322850ff2786cf7fc8b7c3cbc72fe782d7a31b5a20a3126591f0e6"}], "depends": [], "git": null, "custom": {}}
